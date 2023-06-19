@@ -1,0 +1,6 @@
+---
+environment: local
+port: 4000
+backend:
+  endpoint: discord.com
+  websocket: remote-auth-gateway.discord.gg
